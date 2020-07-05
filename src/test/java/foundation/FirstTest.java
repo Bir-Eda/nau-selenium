@@ -25,7 +25,6 @@ public class FirstTest {
         //Open the website / go to the URL given
         driver.get("https://the-internet.herokuapp.com/");
 
-
         /*
         driver.get() is used to navigate particular URL(website) and wait till page load.
         driver.navigate().to() is used to navigate to particular URL and does not wait until the page load.
