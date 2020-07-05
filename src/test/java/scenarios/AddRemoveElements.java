@@ -1,4 +1,7 @@
 package scenarios;
 
-public class AddRemoveElements {
+import base.BasePage;
+
+public class AddRemoveElements extends BasePage {
+
 }
